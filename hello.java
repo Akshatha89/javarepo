@@ -1,5 +1,5 @@
 package org.jacoco.examples.maven.java;
-hihello
+hi
 public class HelloWorld {
 		
 		public String getMessage(boolean bigger) {
